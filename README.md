@@ -1,2 +1,3 @@
-# GAMES
-labs for course games#
+# GAMES103
+---
+This is a course about physical simulation.
